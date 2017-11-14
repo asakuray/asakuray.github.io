@@ -19,7 +19,7 @@ Takami SatoさんによるYoutube動画([こちら](https://www.youtube.com/watc
 KaggleはPrivate Sharingを明示的に禁じているということを学びました。
 Private Sharingとは、コンペで使える情報を、Kaggle Forum外で共有することです。
 チームでコンペに参加して、チーム内で情報を共有するのは許されるが、
-身内だけの仲良しグループでテクニックを流通させるというのはだめだぞ！という趣旨なのです。
+身内だけの仲良しグループでテクニックを流通させるというのはだめだぞ！という趣旨なのです。たぶん。
 
 そして、GitHubのPublic Repositoryでコードを管理するのは、Private Sharingにあたるのでダメなのです。
 Kaggleコンペ中、使っているコードは、Forumに投稿しないのであればPrivate Repositoryに留める必要があります。
