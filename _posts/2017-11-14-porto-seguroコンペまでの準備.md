@@ -17,12 +17,12 @@ Takami SatoさんによるYoutube動画([こちら](https://www.youtube.com/watc
 プリペイドカード(Vプリカ)でやろうとしたら怒られたので、普通のクレジットカードを使いました。
 
 KaggleはPrivate Sharingを明示的に禁じているということを学びました。
-Private Sharingとは、コンペで使える情報を、Kaggle Forum外で共有することである。
+Private Sharingとは、コンペで使える情報を、Kaggle Forum外で共有することです。
 チームでコンペに参加して、チーム内で情報を共有するのは許されるが、
 身内だけの仲良しグループでテクニックを流通させるというのはだめだぞ！という趣旨なのです。
 
-そして、GitHubのPublic Repositoryでコードを管理するのは、Private Sharingにあたるのでダメなのである。
-Kaggleコンペ中、使っているコードは、Forumに投稿しないのであればPrivate Repositoryに留める必要がある。
+そして、GitHubのPublic Repositoryでコードを管理するのは、Private Sharingにあたるのでダメなのです。
+Kaggleコンペ中、使っているコードは、Forumに投稿しないのであればPrivate Repositoryに留める必要があります。
 
 Private Repositoryが必要ということで、無料でやりたい人はBitBucketを使うようです。
 私も動画に合わせて、BitBucketアカウントを作成しました。いずれGitHubに課金したほうが良さそうな気はするが・・・
